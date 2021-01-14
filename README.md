@@ -12,6 +12,6 @@ The architecture of the NoSQL database is optimized for fast reads and the table
 
 ## ETL Pipeline and Data Modeling:
 
-The ETL Pipeline and the Data Modeling are written in the jupyter notebook *Project_1B_Project_Template.ipynb*.
-The notebook copies the provided csv data into a single file *event_datafile_new.csv*. The CSV is then used to populate the denormalized NoSQL tables streaming_library_01-03.
+The ETL Pipeline and the Data Modeling are written in the jupyter notebook **[Project_1B_Project_Template.ipynb](Project_1B_Project_Template.ipynb)**.
+The notebook copies the provided csv data into a single file **[event_datafile_new.csv](event_datafile_new.csv)**. The CSV is then used to populate the denormalized NoSQL tables streaming_library_01-03.
 The design of each individual table is optimized to its corresponding query.
